@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef35ac18-9fce-41a4-bcd9-7ecd332a86e0" name="Default Changelist" comment="" />
+    <list default="true" id="ef35ac18-9fce-41a4-bcd9-7ecd332a86e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VU1E1NIeU4VevRem1HqYyFDwSb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,15 +31,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Application.TestPlayer (1)">
-    <configuration name="TestArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.oop.polymorphism.TestArea" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arraylist.App" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.oop.polymorphism.*" />
+          <option name="PATTERN" value="datastructures.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -39,12 +47,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.oop.abstraction.TestPhone" />
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.ArrayDemo" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.oop.abstraction.*" />
+          <option name="PATTERN" value="datastructure.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPlayer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.oop.polymorphism.TestPlayer" />
+    <configuration name="FriendsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.array.FriendsApp" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.oop.polymorphism.*" />
+          <option name="PATTERN" value="datastructures.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.oop.inheritance.TestPlayer" />
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.array.TestArray" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="concepts.oop.inheritance.*" />
+          <option name="PATTERN" value="datastructures.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,20 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concepts.oop.encapsulation.TestStudent" />
+    <configuration name="TestArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.arraylist.TestArrayList" />
       <module name="CoreJavaDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestPlayer (1)" />
-        <item itemvalue="Application.TestArea" />
-        <item itemvalue="Application.TestPhone" />
-        <item itemvalue="Application.TestPlayer" />
-        <item itemvalue="Application.TestStudent" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.TestArrayList" />
+        <item itemvalue="Application.TestArray" />
+        <item itemvalue="Application.FriendsApp" />
+        <item itemvalue="Application.ArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -125,29 +139,33 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="441" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813@0.23.1440.813" timestamp="1577293539064" />
-    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1577556695959">
+    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1577649792204">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1577556695959" />
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1577568529166">
+    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1577649792204" />
+    <state width="1398" height="521" key="GridCell.Tab.0.bottom" timestamp="1577652643637">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1577568529166" />
-    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1577568529165">
+    <state width="1398" height="521" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1577652643637" />
+    <state width="1398" height="521" key="GridCell.Tab.0.center" timestamp="1577652643636">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1577568529165" />
-    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1577568529165">
+    <state width="1398" height="521" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1577652643636" />
+    <state width="1398" height="521" key="GridCell.Tab.0.left" timestamp="1577652643636">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1577568529165" />
-    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1577568529165">
+    <state width="1398" height="521" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1577652643636" />
+    <state width="1398" height="521" key="GridCell.Tab.0.right" timestamp="1577652643637">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1577568529165" />
-    <state x="212" y="68" key="SettingsEditor" timestamp="1577546321186">
+    <state width="1398" height="521" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1577652643637" />
+    <state x="212" y="68" key="SettingsEditor" timestamp="1577645307580">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="212" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1577546321186" />
+    <state x="212" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1577645307580" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1577651711828">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1577651711828" />
   </component>
 </project>
