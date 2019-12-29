@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef35ac18-9fce-41a4-bcd9-7ecd332a86e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VU1E1NIeU4VevRem1HqYyFDwSb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.TestPlayer (1)">
+    <configuration name="TestArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.oop.polymorphism.TestArea" />
+      <module name="CoreJavaDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.oop.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPhone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.oop.abstraction.TestPhone" />
+      <module name="CoreJavaDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.oop.abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlayer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.oop.polymorphism.TestPlayer" />
+      <module name="CoreJavaDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.oop.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.oop.inheritance.TestPlayer" />
+      <module name="CoreJavaDecember2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concepts.oop.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concepts.oop.encapsulation.TestStudent" />
+      <module name="CoreJavaDecember2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestPlayer (1)" />
+        <item itemvalue="Application.TestArea" />
+        <item itemvalue="Application.TestPhone" />
+        <item itemvalue="Application.TestPlayer" />
+        <item itemvalue="Application.TestStudent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef35ac18-9fce-41a4-bcd9-7ecd332a86e0" name="Default Changelist" comment="" />
+      <created>1577292743886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577292743886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577293539064">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="441" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813@0.23.1440.813" timestamp="1577293539064" />
+    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1577556695959">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1577556695959" />
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1577568529166">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1577568529166" />
+    <state width="1398" height="209" key="GridCell.Tab.0.center" timestamp="1577568529165">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1577568529165" />
+    <state width="1398" height="209" key="GridCell.Tab.0.left" timestamp="1577568529165">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1577568529165" />
+    <state width="1398" height="209" key="GridCell.Tab.0.right" timestamp="1577568529165">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1577568529165" />
+    <state x="212" y="68" key="SettingsEditor" timestamp="1577546321186">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="212" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1577546321186" />
+  </component>
+</project>
