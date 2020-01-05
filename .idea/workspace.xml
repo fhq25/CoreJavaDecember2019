@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ef35ac18-9fce-41a4-bcd9-7ecd332a86e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaDecember2019/datastructures/arraylist/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaDecember2019/datastructures/arraylist/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoreJavaDecember2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJavaDecember2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJavaDecember2019/datareading/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJavaDecember2019/datareading/sample.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datareading/sample.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/datareading/sample.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +34,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enums.Main" />
+  <component name="RunManager" selected="JUnit.TestConcatenater">
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.maps.MapDemo" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enums.*" />
+          <option name="PATTERN" value="datastructures.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singletons.Main" />
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.queues.QueueDemo" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singletons.*" />
+          <option name="PATTERN" value="datastructures.queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datareading.Main" />
+    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.sets.SetDemo" />
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datareading.*" />
+          <option name="PATTERN" value="datastructures.sets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,39 +81,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trycatch.Main" />
+    <configuration name="TestConcatenater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trycatch.*" />
+          <option name="PATTERN" value="datastructures.unittests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="datastructures.unittests" />
+      <option name="MAIN_CLASS_NAME" value="datastructures.unittests.TestConcatenater" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j.fundamentals.TestFinal" />
+    <configuration name="TestConcatenater.testThatTwoLowercaseStringsConcatenateCorrectly" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CoreJavaDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j.fundamentals.*" />
+          <option name="PATTERN" value="datastructures.unittests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="datastructures.unittests" />
+      <option name="MAIN_CLASS_NAME" value="datastructures.unittests.TestConcatenater" />
+      <option name="METHOD_NAME" value="testThatTwoLowercaseStringsConcatenateCorrectly" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestFinal" />
+        <item itemvalue="JUnit.TestConcatenater" />
+        <item itemvalue="JUnit.TestConcatenater.testThatTwoLowercaseStringsConcatenateCorrectly" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.SetDemo" />
+        <item itemvalue="Application.QueueDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -141,37 +152,41 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="441" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.813@0.23.1440.813" timestamp="1577293539064" />
-    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1577909950178">
+    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1578152808080">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1577909950178" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1577911930252">
+    <state x="516" y="153" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813@0.23.1440.813" timestamp="1578152808080" />
+    <state width="1393" height="224" key="GridCell.Tab.0.bottom" timestamp="1578174991222">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1577911930252" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1577911930251">
+    <state width="1393" height="224" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1578174991222" />
+    <state width="1393" height="224" key="GridCell.Tab.0.center" timestamp="1578174991221">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1577911930251" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1577911930251">
+    <state width="1393" height="224" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1578174991221" />
+    <state width="1393" height="224" key="GridCell.Tab.0.left" timestamp="1578174991220">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1577911930251" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1577911930252">
+    <state width="1393" height="224" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1578174991220" />
+    <state width="1393" height="224" key="GridCell.Tab.0.right" timestamp="1578174991221">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1577911930252" />
-    <state x="212" y="68" key="SettingsEditor" timestamp="1577645307580">
+    <state width="1393" height="224" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1578174991221" />
+    <state x="212" y="68" key="SettingsEditor" timestamp="1578161455545">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="212" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1577645307580" />
+    <state x="212" y="68" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1578161455545" />
+    <state x="434" y="333" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578167865379">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="434" y="333" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.813@0.23.1440.813" timestamp="1578167865379" />
     <state x="308" y="26" width="824" height="807" key="find.popup" timestamp="1577900921370">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="308" y="26" width="824" height="807" key="find.popup/0.23.1440.813@0.23.1440.813" timestamp="1577900921370" />
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1577903765772">
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup" timestamp="1578163002426">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1577903765772" />
+    <state x="385" y="160" width="670" height="676" key="search.everywhere.popup/0.23.1440.813@0.23.1440.813" timestamp="1578163002426" />
   </component>
 </project>
